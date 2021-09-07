@@ -21,4 +21,5 @@ shadowwiz({
 Shadowwiz supports 2 options, both of which are optional:
 
 _shadow_type_ - _hasd / soft_ (Defaults to soft)
+
 _padding_ - _boolean_ (Defaults to false)
