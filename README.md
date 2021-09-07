@@ -8,7 +8,7 @@ Get perfect shadows every time for the non-designer
 
 ```
 
-import {shadowwiz} from 'shadowwiz';
+import {shadowwiz} from 'shadowwiz1234';
 
 shadowwiz({
   shadow_type: 'soft',
