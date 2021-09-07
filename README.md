@@ -1,8 +1,8 @@
-#what is this?
+# what is this?
 
 Get perfect shadows every time for the non-designer
 
-#Installation
+# Installation
 
 `npm i shadowwiz --save`
 
@@ -16,7 +16,7 @@ shadowwiz({
 });
 ```
 
-##options
+## options
 
 Shadowwiz supports 2 options, both of which are optional:
 
