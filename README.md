@@ -11,7 +11,7 @@ Get perfect shadows every time for the non-designer
 import {shadowwiz} from 'shadowwiz';
 
 shadowwiz({
-  shadow_type: 'soft,
+  shadow_type: 'soft',
   padding: false
 });
 ```
@@ -20,6 +20,6 @@ shadowwiz({
 
 Shadowwiz supports 2 options, both of which are optional:
 
-_shadow_type_ - _hasd / soft_ (Defaults to soft)
+_shadow_type_ - _hard / soft_ (Defaults to soft)
 
 _padding_ - _boolean_ (Defaults to false)
